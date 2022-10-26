@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3963" started-at="2022-10-25T03:48:22Z" finished-at="2022-10-25T03:48:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3963" started-at="2022-10-25T03:48:22Z" finished-at="2022-10-25T03:48:26Z">
+      <class name="pack1.c1">
+        <test-method status="PASS" signature="al()[pri:0, instance:pack1.c1@2abf4075]" name="al" duration-ms="3855" started-at="2022-10-25T03:48:22Z" finished-at="2022-10-25T03:48:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- al -->
+      </class> <!-- pack1.c1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
